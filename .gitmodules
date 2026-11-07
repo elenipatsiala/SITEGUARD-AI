@@ -1,0 +1,3 @@
+[submodule "simulation/assets/go2"]
+	path = simulation/assets/go2
+	url = https://github.com/unitreerobotics/unitree_mujoco.git
